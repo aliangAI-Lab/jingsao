@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+*.tgz
+dist-app/
+temp/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+# lib/ 和 runtime/electron-helper/shared-core.js 要入库：github: 一行安装不跑构建

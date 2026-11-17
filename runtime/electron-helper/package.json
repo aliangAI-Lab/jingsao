@@ -1,0 +1,7 @@
+{
+  "name": "jingsao-electron-helper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "jingsao desktop helper — Electron transparent overlay window",
+  "main": "main.js"
+}
